@@ -6,4 +6,4 @@ implementations of funcs and curious facts. Go func and have fun
 
 Useful files uploaded up to this day:
 
-  *[Methods for traversing collections]()
+  * [Methods for traversing collections]()
